@@ -10,7 +10,7 @@
       "attribution": "",
       "cocotile": true,
       "legendUrl": "http://maps.gsi.go.jp/development/ichiran.html#std",
-      "html": ""
+      "html": "<a href="https://github.com/yasoshima/gsimaps/edit/gh-pages/layers_txt/my_layers.txt">編集</a>"
     }
   ]
 }
