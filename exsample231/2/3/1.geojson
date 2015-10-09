@@ -6,7 +6,7 @@
       "properties": {
         "_color": "#000000",
         "_opacity": 0.5,
-        "_weight": 3
+        "_weight": 15
       },
       "geometry": {
         "type": "LineString",
