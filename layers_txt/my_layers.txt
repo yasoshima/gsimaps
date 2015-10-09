@@ -14,7 +14,7 @@
     },
     {
       "type": "Layer",
-      "id": "std",
+      "id": "route",
       "title": "ルート",
       "iconUrl": "",
       "url": "https://yasoshima.github.com/gsimaps/example231/2/3/1.geojson",
